@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[sugi2000.github.io]]></title>
+  <link href="http://sugi2000.github.io/atom.xml" rel="self"/>
+  <link href="http://sugi2000.github.io/"/>
+  <updated>2014-02-09T12:39:35+09:00</updated>
+  <id>http://sugi2000.github.io/</id>
+  <author>
+    <name><![CDATA[Tatsuo Sugimoto]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
